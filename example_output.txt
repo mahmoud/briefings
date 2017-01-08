@@ -1,0 +1,22 @@
+(Pdb) pp top_items
+[(u'New York', 650),
+ (u'Chicago', 275),
+ (u'Philadelphia', 92),
+ (u'Detroit', 79),
+ (u'Los Angeles', 73),
+ (u'Dallas', 60),
+ (u'San Francisco', 50),
+ (u'Charlotte', 45),
+ (u'Houston', 44),
+ (u'Austin', 43),
+ (u'Phoenix', 42),
+ (u'Columbus', 31),
+ (u'Jacksonville', 15),
+ (u'San Diego', 13),
+ (u'Indianapolis', 12),
+ (u'San Jose', 8),
+ (u'El Paso', 8),
+ (u'San Antonio', 7),
+ (u'Memphis', 6),
+ (u'Fort Worth', 5)]
+
