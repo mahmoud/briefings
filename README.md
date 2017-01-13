@@ -7,4 +7,4 @@ https://www.whitehouse.gov/briefing-room/press-briefings
 Built for the
 [Internet Archive Government Data Hackathon 2017](https://blog.archive.org/2017/01/02/join-us-for-a-white-house-social-media-and-gov-data-hackathon/).
 
-Requires lxml, cssselect, and boltons.
+Requires lxml, cssselect, boltons, and BeautifulSoup.
